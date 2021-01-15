@@ -1,5 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap-icons/icons/chat-right.svg';
+import 'bootstrap-icons/icons/chevron-up.svg';
+import 'bootstrap-icons/icons/circle-fill.svg';
+import 'leaflet/dist/leaflet.css';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
